@@ -17,11 +17,7 @@ Files Used
 
 The required files for running this program are:
 
-chicago.csv 
-
-washington.csv 
-
-new_york_city.csv
+chicago.csv, washington.csv, new_york_city.csv
 
 Credits
 
