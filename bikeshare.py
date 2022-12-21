@@ -6,7 +6,16 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+<<<<<<< HEAD
 
+||||||| 9845368
+=======
+
+if __name__ == "__main__":
+	main()
+
+
+>>>>>>> documentation
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -205,7 +214,15 @@ def main():
         if restart.lower() != 'yes':
             break
 
+<<<<<<< HEAD
 if __name__ == "__main__":
 	main()
 
 print('Lack of user data for Washington city')
+||||||| 9845368
+
+if __name__ == "__main__":
+	main()
+=======
+
+>>>>>>> documentation
