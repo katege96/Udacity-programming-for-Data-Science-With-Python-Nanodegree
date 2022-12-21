@@ -207,3 +207,6 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+
+print('There is a lack of user data for Washington city')
